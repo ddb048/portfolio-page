@@ -3292,3 +3292,16 @@ body.homepage.is-preload #header:after {
 	}
 
 }
+
+
+.image.headshot {
+	max-width: 20%;
+	max-height: 20%;
+	margin-bottom: 2%;
+}
+
+.contact-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
